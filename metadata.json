@@ -1,0 +1,6 @@
+{
+  "name": "Connected Lights",
+  "description": "An application that connects two devices in real-time. When a user on one device presses a button, it triggers a light and sound on the other connected device.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
